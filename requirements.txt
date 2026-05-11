@@ -1,0 +1,12 @@
+streamlit
+plotly
+pandas
+numpy
+xgboost
+catboost
+lightgbm
+shap
+scikit-learn
+requests
+streamlit-lottie
+matplotlib
